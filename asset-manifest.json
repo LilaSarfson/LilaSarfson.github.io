@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2382b252.css",
+    "main.js": "/static/js/main.52a9e72a.js",
+    "static/js/787.c1cb0221.chunk.js": "/static/js/787.c1cb0221.chunk.js",
+    "static/media/micareto.png": "/static/media/micareto.f7e45ac83778194236a7.png",
+    "static/media/CV.pdf": "/static/media/CV.39e44b2dcb78bde1c8a0.pdf",
+    "static/media/perfil1910.svg": "/static/media/perfil1910.3f5f2ff54ebdb42c16348a6bbbef7a22.svg",
+    "static/media/hello.png": "/static/media/hello.8fa09632420bca80c60c.png",
+    "static/media/github.png": "/static/media/github.f03414e5b20dce8658d0.png",
+    "static/media/up-arrow.png": "/static/media/up-arrow.4785347e14a0c6bb87a1.png",
+    "static/media/flor-02.svg": "/static/media/flor-02.ab2188559eaab06e319624dbad145e17.svg",
+    "static/media/Est-03.svg": "/static/media/Est-03.ab6242069f84ed0a3c37a09178138c32.svg",
+    "index.html": "/index.html",
+    "static/media/moon-04.svg": "/static/media/moon-04.9c7a47485c56bd52e86ace192c0303f6.svg",
+    "main.2382b252.css.map": "/static/css/main.2382b252.css.map",
+    "main.52a9e72a.js.map": "/static/js/main.52a9e72a.js.map",
+    "787.c1cb0221.chunk.js.map": "/static/js/787.c1cb0221.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2382b252.css",
+    "static/js/main.52a9e72a.js"
+  ]
+}
