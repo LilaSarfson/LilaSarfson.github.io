@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfoliowebLila/static/css/main.2382b252.css",
-    "main.js": "/portfoliowebLila/static/js/main.8ac9361a.js",
+    "main.js": "/portfoliowebLila/static/js/main.c9880250.js",
     "static/js/787.c1cb0221.chunk.js": "/portfoliowebLila/static/js/787.c1cb0221.chunk.js",
     "static/media/micareto.png": "/portfoliowebLila/static/media/micareto.f7e45ac83778194236a7.png",
     "static/media/CV.pdf": "/portfoliowebLila/static/media/CV.39e44b2dcb78bde1c8a0.pdf",
@@ -14,11 +14,11 @@
     "index.html": "/portfoliowebLila/index.html",
     "static/media/moon-04.svg": "/portfoliowebLila/static/media/moon-04.9c7a47485c56bd52e86ace192c0303f6.svg",
     "main.2382b252.css.map": "/portfoliowebLila/static/css/main.2382b252.css.map",
-    "main.8ac9361a.js.map": "/portfoliowebLila/static/js/main.8ac9361a.js.map",
+    "main.c9880250.js.map": "/portfoliowebLila/static/js/main.c9880250.js.map",
     "787.c1cb0221.chunk.js.map": "/portfoliowebLila/static/js/787.c1cb0221.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2382b252.css",
-    "static/js/main.8ac9361a.js"
+    "static/js/main.c9880250.js"
   ]
 }
